@@ -1,3 +1,4 @@
+![logo](https://github.com/YashPrajapati27/Exploratory-Data-Analysis-on-Superstore-Dataset/blob/main/maxresdefault.jpg)
 # Unlocking Insights with Exploratory Data Analysis (EDA) on Superstore Dataset 🚀
 
 Thrilled to unveil the culmination of my recent project where I dived deep into the Superstore dataset using the power trio of pandas, seaborn, and numpy! 💡
